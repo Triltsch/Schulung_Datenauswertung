@@ -5,4 +5,4 @@ dependencies:
   - toolz
   - matplotlib
   - pandas
-  - scilearn-kit
+  - scikit-learn
